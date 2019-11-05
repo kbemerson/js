@@ -1,0 +1,23 @@
+p {
+    color: #FF0000; 
+    background: blue; 
+    font-size: 3.0rem;
+}
+
+h1 {
+    color: lightgreen;
+    background: pink;
+    font-size: 3.0rem;
+}
+
+.special {
+    background: black; 
+}
+
+.highlighted {
+    border: 3px solid purple;
+}
+
+.main {
+    border: 10px dashed black;
+}
